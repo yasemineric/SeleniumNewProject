@@ -26,7 +26,7 @@ public class C02_DriverMethods {
 
         //getWindowHandle() Gidilen sayfanin handle degrini (hashKod) verir. Bu handle degerini sayfalar arasi gecis icin kullaniriz.
         System.out.println("Techpro Window handle degeri : "+driver.getWindowHandle());
-
+     //Git deneme
 
     }
 
